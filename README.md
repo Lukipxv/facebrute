@@ -1,3 +1,5 @@
+<h1> Update 2019-March-30</h1>
+It's no more effective as it is based on tor proxies. Tor proxies are used all over the world for different purposes. I used here for bruteforcing fb, But now tor proxies heavily loaded and so are often blocked by FB. Thanks for your love...
 <h1> Facebrute</h1>
 <p>Facebrute is an advance facebook bruteforce script made in python language. Just provide username & wordlist and this script is going to try all passwords with returning responses as well. It uses python-requests with tor stem controller that changes its Public IP on every attempt as facebook block IP that try 20 attempts at once. <b>Make sure to use <a href="https://github.com/graysuit/wGen">Wgen</a> for effective wordlist generation.</b></p>
 <h2> Features</h2>
