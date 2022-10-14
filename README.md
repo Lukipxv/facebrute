@@ -30,8 +30,4 @@ sudo python3 fb.py</code></pre>
 <p>Bruteforcing is going to never harm anyone nor it benefits script kiddies. Instead, they expose the website's mistakes and give developers a golden opportunity to make websites more secure. What if we use this knowledge secretly? Why we public this knowledge?</p>
 <p>We publicized this knowledge to make developers acknowledged of their vulnerabilities + to make new programmers more clever.?</p>
 <p><b>Don't use this source code for illegal purposes.</b> But if you do, this will on to you, I will not/never take any responsibility for your crime.?</p>
-<h2> Contact me personally (want to learn?)</h2>
-<ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
-<li>Email: <a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></li>
-<li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li><ul>
 <h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>
